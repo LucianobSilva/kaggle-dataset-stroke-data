@@ -17,7 +17,7 @@ Tema - Predição de Acidente Vascular Cerebral(AVC), com base em fatores de ris
 - [Jupyter](https://jupyter.org/), [VS Code](https://code.visualstudio.com/docs/) ou uma ferramenta equivalente para execução do arquivo "stroke_prediction.ipynb"
 
 ## Iniciando
-Baixar ou Clonar (via Git) a pasta do projeto deste link [Stroke_Prediction](https://github.com/LucianobSilva/stroke_prediction).
+Baixar ou Clonar (via Git) a pasta do projeto deste link [Stroke_Prediction](https://github.com/LucianobSilva/kaggle-dataset-stroke-data/tree/main?tab=readme-ov-file).
 
 
 ## Executando Projeto 
